@@ -1,3 +1,8 @@
+---
+layouts: default 
+permalink: /index/
+---
+
 # MedCom GitHub Pages 
 <!-- HomePage -->
 This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/). 
