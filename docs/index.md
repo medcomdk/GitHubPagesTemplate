@@ -9,11 +9,11 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
     * [1.1 Non-technical guidelines](#11-non-technical-guidelines)
     * [1.2 Use Cases](#12-use-cases)
     * [1.3 Implementation Guide](#13-implementation-guide)
-      * [1.3.1 Introduction to the Technical Specifications](#131-introduction-to-the-technical-specifications)
+      + [1.3.1 Introduction to the Technical Specifications](#131-introduction-to-the-technical-specifications)
     * [1.4 Syntacs and Communication rules](#14-syntacs-and-communication-rules)
     * [1.5 Other Documentations](#15-other-documentation)
   * [2 Test and Certification](#2-test-and-certification)
-    * [2.1 Testprotocol](#21-testprotocol)
+    + [2.1 Testprotocol](#21-testprotocol)
   * [3 Release Notes](#3-release-notes)
   * [4 Support or Contact](#4-support-or-contact)
 
