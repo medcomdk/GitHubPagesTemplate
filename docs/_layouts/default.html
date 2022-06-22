@@ -12,13 +12,7 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <nav>
-      <ul>
-        <li><a href= "/index/"> Homepage</a></li>
-        <li><a href= "/index/"> Homepage</a></li>
-
-      </ul>
-    </nav>
+    {% include sidebar.html %}
     <div class="wrapper">
       <section>
       <!--header-->
@@ -60,6 +54,8 @@
  -->      <!--/footer-->
       </section>
     </div>
+    
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
