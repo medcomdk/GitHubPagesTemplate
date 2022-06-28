@@ -113,7 +113,7 @@ kbd {
   color: #444d56;
   display: inline-block;
   font-size: 11px;
-  line-height: 10px;
+  line-height: 0px;
   padding: 3px 5px;
   vertical-align: middle;
 }
@@ -140,17 +140,17 @@ ul.downloads {
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
-  margin-bottom: 0px;
+ 
 }
 
 .downloads li:first-child a {
   border-radius:5px 0 0 5px;
-  margin-bottom: 0px;
+  
 }
 
 .downloads li:last-child a {
   border-radius:5px 0 0 5px;
-  margin-bottom: 0px;
+  
  
 }
 
@@ -162,7 +162,6 @@ ul.downloads {
   text-align:center;
   padding-top:6px;
   height:34px;
-  margin-bottom: 0px;
 }
 
 .downloads a:hover, .downloads a:focus {
@@ -182,7 +181,7 @@ strong {
 .downloads li + li + li {
   border-right:none;
   width:89px;
-  margin-bottom: 0px;
+ 
 }
 
 .downloads a strong {
@@ -276,12 +275,10 @@ footer {
 
   .downloads {
     width:99%;
-    margin-bottom: 0px;
   }
 
   .downloads li, .downloads li + li + li {
     width:33%;
-    margin-bottom: 0px;
   }
 }
 
