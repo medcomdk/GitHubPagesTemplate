@@ -16,8 +16,9 @@ h1, h2, h3, h4, h5, h6 {
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
-   padding: 0;
-   line-height:0;
+  padding: 0;
+  line-height:0;
+  margin-bottom: 0;
 }
 
 h1, h2, h3 {
@@ -39,7 +40,7 @@ h3, h4, h5, h6 {
 a {
   color:#267CB9;
   text-decoration:none;
-  margin-bottom: 0;
+ 
 }
 
 a:hover, a:focus {
