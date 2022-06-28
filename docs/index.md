@@ -42,15 +42,16 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
 
 **Table of Content**
 <ol>
-  <li> <a href="#1-documentation"> Dokumentation </a>   </li>
-    <ol>
-     <li> <a href="#11-non-technical-guidelines"> Non-technical guideline</a>
-      <li> <a href="#">Standard Documentation</a></li>
-      <li> <a href="#terminology">Terminology</a> </li>
+  <li> <a href="#1-documentation"> Dokumentation </a>  
+  </li>
+   <li> <a href="#11-non-technical-guidelines"> Non-technical guideline</a>
+   <ol>
+      <li> <a href="#12-use-cases">Use Cases</a></li>
+      <li> <a href="#13-implementation-guide">Implementation Guide </a> </li>
       <li> <a href="#communication-rules">Communication Rules</a></li>
       <li> <a href="#network-layer">Network Layer</a> </li>
     </ol>
-  </li>
+   </li>
   <li> <a href="#3-test-and-certification">Test and Certification</a>
   <li> <a href="#4-governance">Governance</a>
     <ol>
@@ -58,10 +59,13 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
       <li> <a href="#change-requests-and-improvements">Change Requests and Improvements</a> </li>
     </ol>
   </li>
-   <li> <a href="#5-new-to-fhir">New to FHIR</a>
-   <li> <a href="#6-release-notes">Release Notes</a>
+   <li> <a href="#5-new-to-fhir">New to FHIR</a></li>
+   <li> <a href="#6-release-notes">Release Notes</a></li>
 </ol>
- <!-- - [1 Documentation](#1-documentation)
+
+
+ <!-- 
+ - [1 Documentation](#1-documentation)
     * [1.1 Non-technical guidelines](#11-non-technical-guidelines)
     * [1.2 Use Cases](#12-use-cases)
     * [1.3 Implementation Guide](#13-implementation-guide)
@@ -73,6 +77,7 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
   - [3 Release Notes](#3-release-notes)
   - [4 Support or Contact](#4-support-or-contact)
 -->
+
 > Clinical guidelines and use cases are in both Danish and English. The remaining documentation will be in English.
 
 ## 1 Documentation 
