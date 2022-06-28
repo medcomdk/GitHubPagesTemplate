@@ -4,6 +4,7 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
 
 *Short description of the standard*
  the standard is ...
+ 
 **Table of Content**
   - [1 Documentation](#1-documentation)
     * [1.1 Non-technical guidelines](#11-non-technical-guidelines)
