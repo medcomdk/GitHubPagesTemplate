@@ -42,7 +42,7 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
 
 **Table of Content**
 <ol>
-  <li> <a href="#1-documentation>Dokumentation</a>  </li>
+  <li> <a href="#1-documentation"> Dokumentation </a>   </li>
   <li> <a href="#1-medcoms-fhir-standards"> MedComs FHIR standards</a>
   <li> <a href="#2-implementing-a-medcom-fhir-standard"> Implementing a MedCom FHIR standard</a>
     <ol>
