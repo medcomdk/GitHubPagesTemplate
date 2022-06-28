@@ -140,6 +140,7 @@ ul.downloads {
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
+  margin-bottom: 0px;
 }
 
 .downloads li:first-child a {
@@ -147,8 +148,9 @@ ul.downloads {
 }
 
 .downloads li:last-child a {
-  border-radius:0 5px 5px 0;
-  margin-bottom: 0px;
+  border-radius:5px 0 0 5px;
+ 
+ 
 }
 
 .downloads a {
