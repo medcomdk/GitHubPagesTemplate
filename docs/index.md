@@ -47,9 +47,11 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
    <li> <a href="#11-non-technical-guidelines"> Non-technical guideline</a>
     <ol>
         <li> <a href="#12-use-cases">Use Cases</a></li>
-        <li> <a href="#13-implementation-guide">Implementation Guide </a> </li>
-        <li> <a href="#communication-rules">Communication Rules</a></li>
-        <li> <a href="#network-layer">Network Layer</a> </li>
+        <li> <a href="#13-implementation-guide">Implementation Guide </a> 
+          <ol>
+          <li> <a href="#131-introduction-to-the-technical-specifications">Introduction to the Technical Specifications</a></li>
+          </ol>
+        </li>
       </ol>
     </li>
   <li> <a href="#3-test-and-certification">Test and Certification</a></li>
