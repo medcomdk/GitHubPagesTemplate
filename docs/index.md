@@ -45,14 +45,14 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
   <li> <a href="#1-documentation"> Dokumentation </a>  
   </li>
    <li> <a href="#11-non-technical-guidelines"> Non-technical guideline</a>
-   <ol>
-      <li> <a href="#12-use-cases">Use Cases</a></li>
-      <li> <a href="#13-implementation-guide">Implementation Guide </a> </li>
-      <li> <a href="#communication-rules">Communication Rules</a></li>
-      <li> <a href="#network-layer">Network Layer</a> </li>
-    </ol>
-   </li>
-  <li> <a href="#3-test-and-certification">Test and Certification</a>
+    <ol>
+        <li> <a href="#12-use-cases">Use Cases</a></li>
+        <li> <a href="#13-implementation-guide">Implementation Guide </a> </li>
+        <li> <a href="#communication-rules">Communication Rules</a></li>
+        <li> <a href="#network-layer">Network Layer</a> </li>
+      </ol>
+    </li>
+  <li> <a href="#3-test-and-certification">Test and Certification</a></li>
   <li> <a href="#4-governance">Governance</a>
     <ol>
       <li> <a href="#versioning-of-fhir-standard">Versioning of FHIR</a> </li>
@@ -60,7 +60,7 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
     </ol>
   </li>
    <li> <a href="#5-new-to-fhir">New to FHIR</a></li>
-   <li> <a href="#6-release-notes">Release Notes</a></li>
+   <li> <a href="#6-release-notes">Release Notes</a></li> 
 </ol>
 
 
