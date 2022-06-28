@@ -43,10 +43,9 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
 **Table of Content**
 <ol>
   <li> <a href="#1-documentation"> Dokumentation </a>   </li>
-  <li> <a href="#1-medcoms-fhir-standards"> MedComs FHIR standards</a>
-  <li> <a href="#2-implementing-a-medcom-fhir-standard"> Implementing a MedCom FHIR standard</a>
     <ol>
-      <li> <a href="#standard-documentation">Standard Documentation</a></li>
+     <li> <a href="#11-non-technical-guidelines"> Non-technical guideline</a>
+      <li> <a href="#">Standard Documentation</a></li>
       <li> <a href="#terminology">Terminology</a> </li>
       <li> <a href="#communication-rules">Communication Rules</a></li>
       <li> <a href="#network-layer">Network Layer</a> </li>
