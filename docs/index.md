@@ -8,6 +8,7 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
 <style>
   ol {
     counter-reset: item
+    margin-bottom: 0;
     }
   li {
     display: block
@@ -66,8 +67,7 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
 </ol>
 
 
- <!-- 
- - [1 Documentation](#1-documentation)
+ <!-- - [1 Documentation](#1-documentation)
     * [1.1 Non-technical guidelines](#11-non-technical-guidelines)
     * [1.2 Use Cases](#12-use-cases)
     * [1.3 Implementation Guide](#13-implementation-guide)
