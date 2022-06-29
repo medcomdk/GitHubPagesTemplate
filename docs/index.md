@@ -23,26 +23,28 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
 **Table of Content**
 <ol>
   <li> <a href="#1-documentation"> Dokumentation </a>  
-  </li>
-   <li> <a href="#11-non-technical-guidelines"> Non-technical guideline</a>
     <ol>
-        <li> <a href="#12-use-cases">Use Cases</a></li>
-        <li> <a href="#13-implementation-guide">Implementation Guide </a> 
-          <ol>
-          <li> <a href="#131-introduction-to-the-technical-specifications">Introduction to the Technical Specifications</a></li>
-          </ol>
-        </li>
-      </ol>
-    </li>
-  <li> <a href="#3-test-and-certification">Test and Certification</a></li>
-  <li> <a href="#4-governance">Governance</a>
-    <ol>
-      <li> <a href="#versioning-of-fhir-standard">Versioning of FHIR</a> </li>
-      <li> <a href="#change-requests-and-improvements">Change Requests and Improvements</a> </li>
+      <li> <a href="#11-non-technical-guidelines"> Non-technical guideline</a>
+        <ol>
+          <li> <a href="#12-use-cases">Use Cases</a></li>
+          <li> <a href="#13-implementation-guide">Implementation Guide </a> 
+            <ol>
+            <li> <a href="#131-introduction-to-the-technical-specifications">Introduction to the Technical Specifications</a></li>
+            </ol>
+          </li>
+          <li> <a href="#14-syntacs-and-communication-rules">Syntacs and Communication rules</a></li>
+          <li> <a href="#15-other-documentation">Other Documentations</a></li>
+        </ol>
+      </li>
     </ol>
   </li>
-   <li> <a href="#5-new-to-fhir">New to FHIR</a></li>
-   <li> <a href="#6-release-notes">Release Notes</a></li> 
+  <li> <a href="#3-test-and-certification">Test and Certification</a>
+    <ol>
+      <li> <a href="#21-testprotocol">Testprotocol</a></li>
+    </ol>
+  </li>
+  <li> <a href="#6-release-notes">Release Notes</a></li> 
+  <li> <a href="#4-support-or-contact">Support or Contact</a></li>
 </ol>
 
 
