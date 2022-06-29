@@ -8,7 +8,7 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
 <style>
   ol {
     counter-reset: item
-    margin-bottom: 0;
+    
     }
   li {
     display: block
@@ -19,27 +19,6 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
   }
 </style>
 
-<!--<ol>
-  <li> <a href="#welcome-to-medcoms-fhir-standards">Welcome to MedComs FHIR standards</a>  </li>
-  <li> <a href="#1-medcoms-fhir-standards"> MedComs FHIR standards</a>
-  <li> <a href="#2-implementing-a-medcom-fhir-standard"> Implementing a MedCom FHIR standard</a>
-    <ol>
-      <li> <a href="#standard-documentation">Standard Documentation</a></li>
-      <li> <a href="#terminology">Terminology</a> </li>
-      <li> <a href="#communication-rules">Communication Rules</a></li>
-      <li> <a href="#network-layer">Network Layer</a> </li>
-    </ol>
-  </li>
-  <li> <a href="#3-test-and-certification">Test and Certification</a>
-  <li> <a href="#4-governance">Governance</a>
-    <ol>
-      <li> <a href="#versioning-of-fhir-standard">Versioning of FHIR</a> </li>
-      <li> <a href="#change-requests-and-improvements">Change Requests and Improvements</a> </li>
-    </ol>
-  </li>
-   <li> <a href="#5-new-to-fhir">New to FHIR</a>
-   <li> <a href="#6-release-notes">Release Notes</a>
-</ol> -->
 
 **Table of Content**
 <ol>
@@ -67,18 +46,6 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
 </ol>
 
 
- <!-- - [1 Documentation](#1-documentation)
-    * [1.1 Non-technical guidelines](#11-non-technical-guidelines)
-    * [1.2 Use Cases](#12-use-cases)
-    * [1.3 Implementation Guide](#13-implementation-guide)
-      + [1.3.1 Introduction to the Technical Specifications](#131-introduction-to-the-technical-specifications)
-    * [1.4 Syntacs and Communication rules](#14-syntacs-and-communication-rules)
-    * [1.5 Other Documentations](#15-other-documentation)
-  - [2 Test and Certification](#2-test-and-certification)
-    * [2.1 Testprotocol](#21-testprotocol)
-  - [3 Release Notes](#3-release-notes)
-  - [4 Support or Contact](#4-support-or-contact)
--->
 
 > Clinical guidelines and use cases are in both Danish and English. The remaining documentation will be in English.
 
