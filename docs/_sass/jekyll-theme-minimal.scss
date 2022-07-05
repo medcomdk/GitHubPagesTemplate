@@ -26,6 +26,7 @@ h1, h2, h3 {
 }
 
 h1 {
+  color: #325A7A;
   font-size:28px;
 }
 
@@ -55,7 +56,8 @@ a small {
 }
 
 a:hover small {
-  color:#325A7A;
+  color: #205590;
+  /*color:#777;*/ 
 }
 
 .wrapper {
