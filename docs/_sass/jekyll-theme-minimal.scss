@@ -5,12 +5,13 @@ body {
   background-color: #fff;
   padding:75px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#325A7A;
+  color:#727272;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  /*color:#222;*/
+  color: #267CB9;
   margin:0 0 20px;
 }
 
@@ -113,7 +114,7 @@ kbd {
   border-bottom-color: #959da5;
   border-radius: 3px;
   box-shadow: inset 0 -1px 0 #959da5;
-  color: #08892f;
+  color: #444d56;
   display: inline-block;
   font-size: 11px;
   line-height: 10px;
