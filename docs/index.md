@@ -22,27 +22,27 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
 
 **Table of Content**
 <ol>
-  <li> <a href="#1-documentation"> Dokumentation </a>  
+  <li> <b href="#1-documentation"> Dokumentation </b>  
   <ol>
-    <li> <a href="#11-non-technical-guidelines"> Non-technical guideline</a>
-      <li> <a href="#12-use-cases">Use Cases</a></li>
-      <li> <a href="#13-implementation-guide">Implementation Guide </a> 
+    <li> <b href="#11-non-technical-guidelines"> Non-technical guideline</b>
+      <li> <b href="#12-use-cases">Use Cases</b></li>
+      <li> <b href="#13-implementation-guide">Implementation Guide </b> 
         <ol>
-        <li> <a href="#131-introduction-to-the-technical-specifications">Introduction to the Technical Specifications</a></li>
+        <li> <b href="#131-introduction-to-the-technical-specifications">Introduction to the Technical Specifications</b></li>
         </ol>
       </li>
-      <li> <a href="#14-syntacs-and-communication-rules">Syntacs and Communication rules</a></li>
-      <li> <a href="#15-other-documentation">Other Documentations</a></li>
+      <li> <b href="#14-syntacs-and-communication-rules">Syntacs and Communication rules</b></li>
+      <li> <b href="#15-other-documentation">Other Documentations</b></li>
     </li>
   </ol>
   </li>
-  <li> <a href="#3-test-and-certification">Test and Certification</a>
+  <li> <b href="#3-test-and-certification">Test and Certification</b>
     <ol>
-      <li> <a href="#21-testprotocol">Testprotocol</a></li>
+      <li> <b href="#21-testprotocol">Testprotocol</b></li>
     </ol>
   </li>
-  <li> <a href="#6-release-notes">Release Notes</a></li> 
-  <li> <a href="#4-support-or-contact">Support or Contact</a></li>
+  <li> <b href="#6-release-notes">Release Notes</b></li> 
+  <li> <b href="#4-support-or-contact">Support or Contact</b></li>
 </ol>
 
 
