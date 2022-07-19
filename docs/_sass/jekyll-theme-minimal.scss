@@ -10,21 +10,18 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  
-  color: #2C415C;
-  /*color:#222;*/
+  color:#2C415C;
   margin:0 0 20px;
 }
-
 
 ul, ol{
-  margin: 0 0 0px;
+  margin: 0 0 0;
 }
-p, table, pre, dl {
+p,table, pre, dl {
   margin:0 0 20px;
 }
 
-h1, h2, h3 {
+h1, h2, h3,h4 {
   line-height:1.1;
 }
 
@@ -33,28 +30,22 @@ h1 {
 }
 
 h2 {
-  /* overskriftsfarve*/
-  color: #2C415C;
-  /*color:#393939;*/
+  color:#2C415C;
 }
 
 h3, h4, h5, h6 {
-  /* overskriftsfarve*/
-  color: #2C415C;
-  /*color:#494949;*/
+  color:#2C415C;
 }
 
 a {
-  /*linksfarve*/
-  color: #3D597F;
-  /*color:#267CB9;*/
+  color:#5093d6;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color: #3D597F;
-  /*color:#069;*/
-  font-weight: bold;
+  color:#2C415C;
+  text-decoration: underline;
+
 }
 
 a small {
@@ -71,7 +62,7 @@ a:hover small {
 .wrapper {
   width:100%;
   margin:0 auto;
-}/*
+}
 
 blockquote {
   border-left:1px solid #e5e5e5;
@@ -91,14 +82,13 @@ pre {
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
-}*/
+}
 
 table {
   width:100%;
   border-collapse:collapse;
 }
 
-/*
 th, td {
   text-align:left;
   padding:5px 10px;
@@ -113,11 +103,11 @@ dt {
 th {
   color:#444;
 }
-*/
+
 img {
   max-width:100%;
 }
-/*
+
 kbd {
   background-color: #fafbfc;
   border: 1px solid #c6cbd1;
@@ -131,7 +121,7 @@ kbd {
   padding: 3px 5px;
   vertical-align: middle;
 }
-*/
+
 header {
   width:270px;
   float:left;
@@ -250,7 +240,6 @@ footer {
 
   header a small {
     display:inline;
-    
   }
 
   header ul {
