@@ -6,7 +6,10 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
 
 *Create an item list with the profiles this IG includes.*
  
+<!-- below is the table of content. Ensure to update it. -->
+
 **Table of Content**
+
 * [1 Standard Documentation](#1-standard-documentation)
   * [1.1 Clinical Guidelines](#11-clinical-guidelines)
   * [1.2 Use Cases](#12-use-cases)
