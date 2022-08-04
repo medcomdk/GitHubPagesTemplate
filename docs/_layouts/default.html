@@ -28,7 +28,7 @@
       /* Change the color of links on hover */
       .topnav a:hover {
         background-color: #ddd;
-        color: black;
+        color: #2c415c;
       }
       
       /* Add an active class to highlight the current page */
@@ -79,10 +79,21 @@
 
         <strong>
           <div class="topnav" id="myTopnav">
-            <a href="#home" class="active">Home</a>
-            <a href="#news">News</a>
-            <a href="#contact">Contact</a>
-            <a href="#about">About</a>
+            {% if site.menuurl_item1 %}
+              <a href="{{ site.menuurl_item1 }}">{{ site.menutxt_item1 }}</a>
+            {% endif %}
+            {% if site.menuurl_item2 and site.menuurl_item2!=site.href %}
+              <a href="{{ site.menuurl_item2 }}">{{ site.menutxt_item2 }}</a>
+            {% endif %}
+            {% if site.menuurl_item3 %}
+              <a href="{{ site.menuurl_item3 }}">{{ site.menutxt_item3 }}</a>
+            {% endif %}
+            {% if site.menuurl_item4 %}
+              <a href="{{ site.menuurl_item4 }}">{{ site.menutxt_item4 }}</a>
+            {% endif %}
+            {% if site.menuurl_item5 %}
+              <a href="{{ site.menuurl_item5 }}">{{ site.menutxt_item5 }}</a>
+            {% endif %}
             <a href="javascript:void(0);" class="icon" onclick="myFunction()">
               <i class="fa fa-bars"></i>
             </a>
