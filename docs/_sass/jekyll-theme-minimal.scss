@@ -1,6 +1,7 @@
 @import "fonts";
 @import "rouge-github";
 
+
 body {
   background-color: #fff;
   padding:75px;
@@ -247,6 +248,11 @@ footer {
     right:50px;
     top:52px;
   }
+  .topnav a:not(:first-child) {display: none;}
+      .topnav a.icon {
+      float: right;
+      display: block;
+      }
 }
 
 @media print, screen and (max-width: 100%) {
