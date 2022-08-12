@@ -1,5 +1,4 @@
 <!-- HomePage -->
-
 <h1>MedCom GitHub Pages</h1> 
 
 This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/). 
