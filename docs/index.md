@@ -1,6 +1,7 @@
 <!-- HomePage -->
-<br>
-# MedCom GitHub Pages 
+
+<h1>MedCom GitHub Pages</h1> 
+
 This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/). 
 
 *Short description concerning the purpose of the standard. Remember to include both the English and Danish name of the standard.*
@@ -10,7 +11,6 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
 <!-- below is the table of content. Ensure to update it. -->
 
 **Table of Content**
-
 * [1 Standard Documentation](#1-standard-documentation)
   * [1.1 Clinical Guidelines](#11-clinical-guidelines)
   * [1.2 Use Cases](#12-use-cases)
