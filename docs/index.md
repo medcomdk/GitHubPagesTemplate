@@ -1,5 +1,6 @@
-# MedCom GitHub Pages 
 <!-- HomePage -->
+
+# MedCom GitHub Pages 
 This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/). 
 
 *Short description concerning the purpose of the standard. Remember to include both the English and Danish name of the standard.*
