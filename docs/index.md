@@ -60,7 +60,7 @@ The link below gives an overview of the included profiles, what their purpose is
 ## 2 Test and Certification
 Certification of a system implies both an approved testprotocol and run-through of TouchStone test scripts. TouchStone describes an infrastructure that allows for automated test and validation against the IG's developed by MedCom. 
 
-Find a general description of MedCom test and certification [here](https://tmsmedcom.github.io/GitHubPagesTest/#test-and-certification). 
+ [Click here to find the description of test and certification of FHIR standards in MedCom.](https://tmsmedcom.github.io/GitHubPagesTest/#test-and-certification). 
 
 **Sending a HospitalNotification message**
   * Testprotocol
