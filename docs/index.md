@@ -1,6 +1,14 @@
 <!-- HomePage -->
 <h1>MedCom GitHub Pages</h1> 
 
+**Table of Content**
+* [1 Standard Documentation](#1-standard-documentation)
+  * [1.1 Clinical Guidelines](#11-clinical-guidelines)
+  * [1.2 Use Cases](#12-use-cases)
+  * [1.3 Implementation Guide](#13-implementation-guide)
+* [2 Test and Certification](#2-test-and-certification)
+* [3 Release Notes](#3-release-notes)
+
 This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/). 
 
 *Short description concerning the purpose of the standard. Remember to include both the English and Danish name of the standard.*
@@ -9,13 +17,6 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
  
 <!-- below is the table of content. Ensure to update it. -->
 
-**Table of Content**
-* [1 Standard Documentation](#1-standard-documentation)
-  * [1.1 Clinical Guidelines](#11-clinical-guidelines)
-  * [1.2 Use Cases](#12-use-cases)
-  * [1.3 Implementation Guide](#13-implementation-guide)
-* [2 Test and Certification](#2-test-and-certification)
-* [3 Release Notes](#3-release-notes)
 
 
 > Clinical guidelines and use cases are in both Danish and English. The remaining documentation will be in English.
