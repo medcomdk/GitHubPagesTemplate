@@ -3,7 +3,7 @@
 
 **Table of Content**
 * [1 Standard Documentation](#1-standard-documentation)
-  * [1.1 Clinical Guidelines](#11-clinical-guidelines)
+  * [1.1 Clinical Guidelines for application](#11-clinical-guidelines-for-application)
   * [1.2 Use Cases](#12-use-cases)
   * [1.3 Implementation Guide](#13-implementation-guide)
 * [2 Test and Certification](#2-test-and-certification)
@@ -19,7 +19,7 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
 
 
 
-> Clinical guidelines and use cases are in both Danish and English. The remaining documentation will be in English.
+> Clinical Guidelines for application and use cases are in both Danish and English. The remaining documentation will be in English.
 
 ## 1 Standard Documentation 
 The standard documentation below provides the necessary content to understand the needs for modernization, the role of the *STANDARDNAME* message, what to implement and how to get a MedCom certificate. The standard documentation for *STANDARDNAME* includes:
@@ -29,14 +29,14 @@ The standard documentation below provides the necessary content to understand th
   * *mention other relevant documentation*
 <p>&nbsp;</p>
 
-### 1.1 Clinical Guidelines 
+### 1.1 Clinical Guidelines for application 
 
-The clinical guidelines is the foundation for the *STANDARDNAME* standard. It describes the clinical needs for the modernization, the requirement for the content of the standard and how the standard supports the business requirements. It is the primary textual part of the documentation for *STANDARDNAME*. It is important for both implementers and business specialists to understand the clinical guidelines to ensure that the implemented standard supports the requirements.
+The Clinical Guidelines for application is the foundation for the *STANDARDNAME* standard. It describes the clinical needs for the modernization, the requirement for the content of the standard and how the standard supports the business requirements. It is the primary textual part of the documentation for *STANDARDNAME*. It is important for both implementers and business specialists to understand the Clinical Guidelines for application to ensure that the implemented standard supports the requirements.
 
-Below can the clinical guidelines in Danish and English be found:
+Below can the Clinical Guidelines for application in Danish and English be found:
 
-[Danish: Sundhedsfaglige retningslinjer](assets/documents/Clinical-guidelines-DA.md) <br> 
-[English: Clinical guidelines](assets/documents/Clinical-guidelines-ENG.md) 
+[Danish: Sundhedsfaglige retningslinjer for anvendelse](assets/documents/Clinical-guidelines-DA.md) <br> 
+[English: Clinical Guidelines for application ](assets/documents/Clinical-guidelines-ENG.md) 
 
 ### 1.2 Use Cases
 
