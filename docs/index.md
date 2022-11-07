@@ -19,7 +19,7 @@ This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/).
 
 > Clinical Guidelines for application and use cases are in both Danish and English. The remaining documentation will be in English.
 
-## 1 Standard Documentation {#-standard}
+## 1 Standard Documentation {#standard}
 The standard documentation below provides the necessary content to understand the needs for modernization, the role of the *STANDARDNAME* message, what to implement and how to get a MedCom certificate. The standard documentation for *STANDARDNAME* includes:
   * Clinical Guidelines
   * Use cases
