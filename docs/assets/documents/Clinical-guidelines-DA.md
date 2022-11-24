@@ -1,1 +1,2 @@
-<h1>Sundhedsfaglige retningslinjer for anvendelse</h1>
+[Tilbage](../../index.md)
+# Sundhedsfaglige retningslinjer for anvendelse

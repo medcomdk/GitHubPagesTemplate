@@ -1,22 +1,17 @@
 <!-- HomePage -->
-<h1>MedCom GitHub Pages</h1> 
-
+# MedCom GitHub Pages 
+<!-- below is the table of content. Ensure to update it. -->
 **Table of Content**
 * [1 Standard Documentation](#standard)
   * [1.1 Clinical Guidelines for application](#11-clinical-guidelines-for-application)
   * [1.2 Use Cases](#12-use-cases)
-  * [1.3 Implementation Guide](#13-implementation-guide)
+  * [1.3 Technical specification](#13-technical-specification)
+  * [1.4 Mapping from OIOXML to FHIR]()
 * [2 Test and Certification](#2-test-and-certification)
-* [3 Release Notes](#3-release-notes)
 
-This FHIR&reg;&copy; standard is developed by [MedCom](https://www.medcom.dk/). 
 
 *Short description concerning the purpose of the standard. Remember to include both the English and Danish name of the standard.*
-
-*Create an item list with the profiles this IG includes.*
  
-<!-- below is the table of content. Ensure to update it. -->
-
 > Clinical Guidelines for application and use cases are in both Danish and English. The remaining documentation will be in English.
 
 ## 1 Standard Documentation {#standard}
@@ -46,7 +41,7 @@ Below can the use cases in Danish and English be found:
 [Danish: Use cases](assets/documents/UseCases-DA.md) <br> 
 [English: Use cases](assets/documents/UseCases-ENG.md) 
 
-### 1.3 Implementation Guide
+### 1.3 Technical specification
 
 The technical specification for *STANDARDNAME* standard is composed by profiles form *IG name* 
 
@@ -56,6 +51,10 @@ The profiles that are part of the technical specification for *STANDARDNAME* are
 The link below gives an overview of the included profiles, what their purpose is, and which elements the system should support. Further, the structure of the standard is described and supported with examples in different degree of technical skills.
 
 [Click here to read an introduction to the technical specificationscan be found here.](assets/documents/Intro-Technical-Spec-ENG.md)
+
+### 1.4 Mapping from OIOXML to FHIR
+Short description concerning the previous OIOXML standard that is replaced by STANDARDNAME. 
+The document is intended to help translate the previous standard to the new FHIR standard.Furthermore, not all elements from the FHIR elements are represented in the document; thus, it cannot stand alone for implementation. 
 
 ## 2 Test and Certification
 Certification of a system implies both an approved testprotocol and run-through of TouchStone test scripts. TouchStone describes an infrastructure that allows for automated test and validation against the IG's developed by MedCom. 
@@ -71,8 +70,3 @@ Certification of a system implies both an approved testprotocol and run-through 
   * Testprotocol
   * TouchStone Testscripts
 <p>&nbsp;</p>
-
-## 3 Release Notes
-
-[Updates in the latest release.](assets/documents/ReleaseNote-ENG.md)
-børster 
