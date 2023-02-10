@@ -6,7 +6,7 @@
   * [1.1 Clinical Guidelines for application](#11-clinical-guidelines-for-application)
   * [1.2 Use Cases](#12-use-cases)
   * [1.3 Technical specification](#13-technical-specification)
-  * [1.4 Mapping from OIOXML to FHIR]()
+  * [1.4 Mapping from OIOXML to FHIR](#14-mapping-from-oioxml-to-fhir)
 * [2 Test and Certification](#2-test-and-certification)
 
 
@@ -61,12 +61,12 @@ Certification of a system implies both an approved testprotocol and run-through 
 
  [Click here to find the description of test and certification of FHIR standards in MedCom.](https://tmsmedcom.github.io/GitHubPagesTest/#test-and-certification). 
 
-**Sending a HospitalNotification message**
+**Sending a STANDARDNAME message**
   * Testprotocol
   * TouchStone Testscripts
 <p>&nbsp;</p>
  
-**Receiving a HospitalNotification message**
+**Receiving a STANDARDNAME message**
   * Testprotocol
   * TouchStone Testscripts
 <p>&nbsp;</p>
